@@ -2,14 +2,14 @@ body {
   background-color: #666;
 }
 #canvas {
-   background-color: transparent;
-  position:absolute;
-  top:10px;
-  left:10px;
-}
-#canvas_bg {
   background-color: #000;
   position:absolute;
-  top:10px;
-  left:10px;
+  top:0px;
+  left:0px;
+}
+#canvas_bg {
+  background-color: transparent;
+  position:absolute;
+  top:0px;
+  left:0px;
 }
