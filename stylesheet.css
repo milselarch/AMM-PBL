@@ -1,0 +1,24 @@
+div.data {
+    z-index: 0;
+    position: fixed;
+    width: 100%;
+}
+
+div.color {
+    width: 100%;
+    height: 1rem;
+
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+div.data * {
+    font-family: "Inconsolata";
+}
+
+* {
+    font-family: "open sans", sans-serif;
+}
